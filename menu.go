@@ -26,6 +26,13 @@ var menu = []Menu{
 	{11, "Veg. Masala Maggi", 60.00},
 	{12, "Samosa", 20},
 	{13, "Cream Roll", 15},
+	{14,"Veg Biryani with lal wali chatni",30},
+	{15,"chole kulche",35},
+	{16,"Ram ladoo",60},
+	{17,"Unlimited momos",100},
+	{18,"French fries",70},
+	{19,"Singapuri chowmein",120},
+	{20,"Dosa",140},
 }
 
 func printMenu() {
